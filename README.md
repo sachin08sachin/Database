@@ -442,8 +442,13 @@ each work and experience some of the frustrations as well as the benefits of eac
 
 
 DIFFERENCE B/W MySQL(SQL) AND MongoDB(NoSQL):
-                      MySQL : 1.More mature                   MongoDB: 1.Shiny and New
-                              2.Table Structure                        2.Document Structure.
-                              3.Requires a Schema                      3.More Flexible to changes
-                              4.Great with Relationships               4.Not Great with Complex Relationship
-                              5.Scales Vertically                      5.Horizontally Scalable
+                      MySQL : 1.More mature                  
+                              2.Table Structure                       
+                              3.Requires a Schema                     
+                              4.Great with Relationships              
+                              5.Scales Vertically                      
+                     MongoDB: 1.Shiny and New
+                              2.Document Structure.
+                              3.More Flexible to changes
+                              4.Not Great with Complex Relationship
+                              5.Horizontally Scalable
